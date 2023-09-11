@@ -1,5 +1,0 @@
-{{#user}}
-Name: Vaishnavi Sakhare
-Skills: HTML, CSS, JS, React, Spring, Java, MySQL, Problem Solving, DSA
-Email: vaishnavisakhare0312@gmail.com
-{{/user}}
